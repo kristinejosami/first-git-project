@@ -1,0 +1,14 @@
+P {
+  background-color: orange;
+}
+h1{
+  background-color: red;
+}
+ol{
+  color: white;
+  background-color: blue;
+  border:10px solid black;
+}
+body{
+  background-color: yellow;
+}

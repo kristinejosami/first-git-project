@@ -1,0 +1,37 @@
+.ahref a{
+  text-decoration: none;
+  color:white;
+  padding: 20px;
+  display:block;
+}
+.a a:hover{
+  background-color: gray;
+}
+.li li{
+  list-style-type: none;
+  float: left;
+}
+.ul ul{
+  background-color: #0f6499;
+  overflow:hidden;
+}
+Body{
+  background-color: #d3e1ea;
+}
+h1{
+  text-align: center;
+  font-family:monospace;
+  padding-top: 10px;
+}
+h3{
+  font-family: monospace;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.p{
+  padding-top: 10px;
+  text-align:center;
+}
+p{
+  text-indent: 15px;
+}

@@ -1,0 +1,12 @@
+.bluecolor{
+  background-color: blue;
+  height: 100px;
+  width: 200px;
+}
+.redcolor{
+  background-color: red;
+  height: 100px;
+  width: 200px;
+  position: relative;
+  left: 300px;
+}

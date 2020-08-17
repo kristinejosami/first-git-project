@@ -1,0 +1,56 @@
+Body{
+  background-color: #f28a8a
+}
+h1{
+  text-align: center;
+  border-radius: 15px;
+  border: solid #f2b0b0 8px;
+}
+.welcome{
+  background-color: #bc4242;
+}
+h3{
+  text-indent: 25px;
+}
+.view{
+  background-color: #f4baba;
+  height: 25px;
+  width:100px;
+  position: fixed;
+  bottom: 20px;
+  right:20px;
+  padding: 2px;
+}
+.painting{
+  border: 3px solid #471313;
+}
+.copyright{
+  background-color: #f92a2a;
+  width: 280px;
+}
+img{
+  height: 300px;
+  width: 200px;
+}
+img:hover{
+  filter:grayscale(100%);
+}
+.names > p{
+  float: left;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.names {
+  display:none;
+}
+.painting:hover .names{
+  display:block;
+}
+.message{
+  background-color: red;
+  height: 150px;
+  width:300px;
+  padding: 20px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}

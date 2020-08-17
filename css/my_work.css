@@ -1,0 +1,41 @@
+.ahref a{
+  text-decoration: none;
+  color:white;
+  padding: 20px;
+  display:block;
+}
+.a a:hover{
+  background-color: gray;
+}
+.li li{
+  list-style-type: none;
+  float: left;
+}
+.ul ul{
+  background-color: #0f6499;
+  overflow:hidden;
+}
+body{
+  background-color: #D3E1EA;
+}
+h1{
+  font-family: monospace;
+  text-align: center;
+  padding-top: 20px;
+}
+.p p{
+  text-align: center;
+  padding-top: 10px;
+}
+.smimg{
+  height: 50px;
+  width: 50px;
+}
+img {
+  width: 400px;
+  height: 250px;
+}
+.imgp {
+  text-indent: 150px;
+  display:block;
+}

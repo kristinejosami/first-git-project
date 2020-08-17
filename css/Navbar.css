@@ -1,0 +1,17 @@
+a{
+  text-decoration: none;
+  color:white;
+  padding: 10px;
+  display:block;
+}
+a:hover{
+  background-color: gray;
+}
+li{
+  list-style-type: none;
+  float: left;
+}
+ul{
+  background-color: yellow;
+  overflow:hidden;
+}

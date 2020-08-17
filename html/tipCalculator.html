@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="C:Users/kristine josami/Desktop/MyWebsite/CSS/tipCalculator.css">
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <form>
+      <p id="paraone">Tip Calculator</p>
+      <p>Total bill amount:</p>
+      <p>$ <input id="billAmount" type="text" placeholder="Amount"> </p>
+      <p>How would you rate the service?</p>
+      <select id="dropdown" name="-Choose an Option">
+        <option disabled selected value="0">-Choose an Option-</option>
+        <option value="0.3">30% Outstanding</option>
+        <option value="0.20">20% Good</option>
+        <option value="0.15">15% It was OK</option>
+        <option value="0.1">10% Bad</option>
+        <option value="0.05">5% Terrible</option>
+      </select>
+      <p>Split the bill with how many people?</p>
+      <p> <input id="peopleAmount" type="text" placeholder="Number of People"> people</p>
+      <button id="paratwo" type="button" onclick="calculate()">Calculate</button>
+      <h4 id="parathree"></h4>
+    </form>
+    <script type="text/javascript"src="C:Users/kristine josami/Desktop/MyWebsite/javascript/tipCalculator.js"></script>
+  </body>
+</html>

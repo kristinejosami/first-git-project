@@ -1,0 +1,46 @@
+body{
+  background-color: pink;
+}
+#paraone{
+  text-indent: 90px;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: black;
+  color:white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 10px;
+}
+form{
+  text-indent: 30px;
+  background-color: #d8d2d2;
+  border-radius: 20px;
+  position: relative;
+  left: 200px;
+  top: 50px;;
+  height: 500px;
+  width:350px;
+}
+#paratwo{
+  text-indent: 10px;
+  background-color: red;
+  color: white;
+  position: relative;
+  left: 85px;
+  top:15px;
+  height: 20px;
+  width: 150px;
+  padding: 20px;
+  padding-bottom: 30px;
+}
+#dropdown{
+  padding: 10px;
+  position: relative;
+  left: 55px;
+}
+#parathree{
+  padding-top: 10px;
+  text-indent: 10px;
+  font-family: monospace;
+  font-size: 20px;
+}

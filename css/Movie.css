@@ -1,0 +1,25 @@
+Body{
+  background-color: #c466be;
+}
+h1{
+  font-family:cursive;
+  text-align: center;
+}
+div{
+  background-color: #f21aa6;
+}
+
+.movie{
+  position: relative;
+  left:20px;
+
+}
+#copyright{
+  position: absolute;
+  bottom:0px;
+}
+
+img{
+  width:30%;
+  padding: 30px;
+}
