@@ -3,4 +3,4 @@
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project(Expample) 
+- [ ] My code follows the style guidelines of this project(Example) 
