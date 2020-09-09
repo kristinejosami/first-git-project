@@ -3,9 +3,18 @@
   <head>
     <meta charset="utf-8">
     <title></title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'main.css' %}">
   </head>
   <body>
     <h1>Hi this is our new page!</h1>
     <h1>how awesome it is!</h1>
+    <img src="{% static 'ele.JPEG' %}" alt="">
+    <br>
+    <a href="{%url 'contact' %}">Click here to go to contact page</a>
+    <br>
+    <button onclick="buttonfunc()">Click me</button>
   </body>
+
+  <script type="text/javascript" src="{% static 'main.js'%}"></script>
 </html>
