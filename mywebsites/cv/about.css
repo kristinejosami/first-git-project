@@ -1,0 +1,19 @@
+div{
+  background-color: yellow;
+}
+ul{
+  list-style-type: none;
+  overflow:hidden;
+}
+div li{
+  float: left;
+}
+a{
+  text-decoration: none;
+  padding: 13px;
+  color:white;
+  display: block;
+}
+a:hover{
+  background-color: black;
+}
